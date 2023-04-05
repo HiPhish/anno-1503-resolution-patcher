@@ -23,8 +23,11 @@ Here is an example invocation on Unix with the game installed through `Wine`_:
 
 .. code:: sh
 
-   # 1600x900 is the default resolution of the patcher
-   ./anno-1503-resolution-patcher.py -x 1600 -y 900 '~/.wine/drive_c/GOG Games/Anno 1504 AD'
+   # Patch the game to the default resolution 1600x900 in current directory
+   ./anno-1503-resolution-patcher.py
+
+   # Specify resolution and game path explicitly
+   ./anno-1503-resolution-patcher.py -x 1600 -y 900 '~/.wine/drive_c/GOG Games/Anno 1503 AD'
 
    # To see full instructions and a list of know working resolutions run this
    ./anno-1503-resolution-patcher.py --help
