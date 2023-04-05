@@ -1,0 +1,4 @@
+# These requirements are only for development and testing, they are not needed
+# to run the script
+pytest
+mypy
