@@ -8,6 +8,9 @@ A simple Python script which patches the game “Anno 1503” to run at higher
 resolutions.  To do so it has to replace one of the available default
 resolutions.
 
+.. image:: https://user-images.githubusercontent.com/4954650/230197537-ea73cabc-6a77-4502-9946-8dbddab6b248.png
+   :alt: Screenshot of the game running at a resolution of 1600 by 900
+
 
 Running
 #######
